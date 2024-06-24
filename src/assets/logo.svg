@@ -1,0 +1,15 @@
+<svg width="200" height="57" viewBox="0 0 200 57" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background path -->
+  <path d="M90 43.39C90 42.3438 90.91 41.53 91.949 41.6459L143.251 45.136C147.227 45.5794 150.591 42.226 150.161 38.2483C149.713 34.1161 145.434 31.5622 141.584 33.1306L92.417 45.0151C91.263 45.4854 90 44.6363 90 43.39Z" fill="url(#paint0_linear_2205_14)" transform="scale(1.9) translate(-46, -18)"/>
+  
+  <!-- Text "Saurabh" -->
+  <text x="5" y="40" fill="white" font-size="45" font-family="Arial" font-weight="bold">Saurabh</text>
+  
+  <!-- Gradient definition -->
+  <defs>
+    <linearGradient id="paint0_linear_2205_14" x1="219.1" y1="39.9983" x2="202.599" y2="91.4037" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#DF8908"/>
+      <stop offset="1" stop-color="#B415FF"/>
+    </linearGradient>
+  </defs>
+</svg>
